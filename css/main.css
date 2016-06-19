@@ -1,0 +1,33 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.fullBlock{
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+    width: 89%;
+}.blocks{
+    border:solid #e4e4e2 2px;
+    box-shadow: 0 0 4px #888888;
+    background: #e8f2f6;
+    margin-bottom: 10px;
+    height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
